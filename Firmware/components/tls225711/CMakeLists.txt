@@ -1,0 +1,6 @@
+set(COMPONENT_SRCS "tls25711.c")
+set(COMPONENT_ADD_INCLUDEDIRS "include")
+set(COMPONENT_PRIV_INCLUDEDIRS "../eid430/include")
+set(COMPONENT_REQUIRES)
+message("-> build tls25711...")
+register_component()
