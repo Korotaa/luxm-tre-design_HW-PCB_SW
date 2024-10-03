@@ -14271,7 +14271,7 @@
 		)
 		(uuid "069328a5-35dd-479a-899a-b84e66881aa0")
 	)
-	(text "Battery power"
+	(text "Battery system"
 		(exclude_from_sim no)
 		(at 407.416 214.122 0)
 		(effects
@@ -14297,7 +14297,7 @@
 	)
 	(text "USB Interface"
 		(exclude_from_sim no)
-		(at 121.666 142.748 0)
+		(at 83.566 149.352 0)
 		(effects
 			(font
 				(size 3 3)
@@ -28156,7 +28156,7 @@
 	)
 	(symbol
 		(lib_id "power:GNDPWR")
-		(at 27.94 233.68 0)
+		(at 34.29 238.76 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28165,7 +28165,7 @@
 		(fields_autoplaced yes)
 		(uuid "ebd4553e-8ee8-4fd8-b2b1-6ae23873c5e7")
 		(property "Reference" "#PWR01"
-			(at 27.94 238.76 0)
+			(at 34.29 243.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28174,7 +28174,7 @@
 			)
 		)
 		(property "Value" "GNDPWR"
-			(at 27.813 237.49 0)
+			(at 34.163 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28183,7 +28183,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 27.94 234.95 0)
+			(at 34.29 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28192,7 +28192,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 234.95 0)
+			(at 34.29 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28201,7 +28201,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GNDPWR\" , global ground"
-			(at 27.94 233.68 0)
+			(at 34.29 238.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)

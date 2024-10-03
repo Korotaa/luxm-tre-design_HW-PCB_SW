@@ -179,6 +179,8 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
+        0.2,
         0.6,
         0.8,
         1.0
@@ -632,6 +634,10 @@
     [
       "882725a0-c733-4986-ac3e-bf6d111c303c",
       "Racine"
+    ],
+    [
+      "dbcd3b1a-e179-4892-a30e-465a19c9cdbc",
+      "system-bloc-diagramm"
     ]
   ],
   "text_variables": {}
